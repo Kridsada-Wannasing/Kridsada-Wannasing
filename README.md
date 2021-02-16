@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### :gear: &nbsp;GitHub Analytics
 <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kridsada-Wannasing&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/Kridsada-Wannasing">
   <img height = "180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kridsada-Wannasing&layout=compact&langs_count=8&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kridsada-Wannasing&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
